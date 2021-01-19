@@ -1,6 +1,6 @@
 # Rumtunnel-Inventory
 
-##Description
+## Description
 
 PEI and Charlottetown have a long history of rum-running (see for example: [Rum-Running](https://www.cbc.ca/news/canada/prince-edward-island/pei-bygone-days-rum-running-1.4839501)
 
@@ -98,6 +98,7 @@ public Iterator<Integer> iterator() ;
   throws NoSuchElementException if this is not a valid index
 **/
 public int get(int index);
+}
 
 ```
 
